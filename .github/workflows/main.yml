@@ -1,0 +1,78 @@
+name: Build, Deploy, and Notify
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v1.3
+
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v1.2
+
+      - name: Install NuGet packages
+        run: nuget restore ./ProyectoIntegracionContinua/ProyectoIntegracionContinua.sln
+
+      - name: Lint code
+        run: dotnet format ./ProyectoIntegracionContinua
+
+      - name: Restore dependencies
+        run: dotnet restore ./ProyectoIntegracionContinua
+
+      - name: Build application
+        run: msbuild ./ProyectoIntegracionContinua/ProyectoIntegracionContinua.sln
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: app
+          path: 'ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.exe'
+
+  generate-html:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: app
+          path: app
+
+      - name: Create HTML file
+        run: |
+          echo "<!DOCTYPE html>" > index.html
+          echo "<html lang='es'>" >> index.html
+          echo "<head>" >> index.html
+          echo "    <meta charset='UTF-8'>" >> index.html
+          echo "    <meta name='viewport' content='width=device-width, initial-scale=1.0'>" >> index.html
+          echo "    <title>Equipo 3 - Proyecto Integración Continua</title>" >> index.html
+          echo "    <style>" >> index.html
+          echo "        body {" >> index.html
+          echo "            font-family: Arial, sans-serif;" >> index.html
+          echo "            margin: 40px;" >> index.html
+          echo "            text-align: center;" >> index.html
+          echo "        }" >> index.html
+          echo "        h1 {" >> index.html
+          echo "            color: #333;" >> index.html
+          echo "        }" >> index.html
+          echo "    </style>" >> index.html
+          echo "</head>" >> index.html
+          echo "<body>" >> index.html
+          echo "    <h1>Master DevOps & Cloud Computing</h1>" >> index.html
+          echo "    <p>La nueva versión de la aplicación está disponible para su descarga:</p>" >> index.html
+          echo "    <a href='./app/Proyecto Integracion Continua.exe' download>Descargar Aplicación</a>" >> index.html
+          echo "    <h1>Equipo 3 - Proyecto Integración Continua</h1>" >> index.html
+          echo "    <h1>Andres Barquero Castillo</h1>" >> index.html
+          echo "    <h1>Josue Ulate Fallas</h1>" >> index.html
+          echo "    <h1>Luis Malanche Garcia</h1>" >> index.html
+          echo "    <h1>Mariano Rodriguez Diaz</h1>" >> index.html
+          echo "</body>" >> index.html
+          echo "</html>" >> index.html
