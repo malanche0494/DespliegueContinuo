@@ -1,0 +1,38 @@
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.exe.config
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.exe
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.pdb
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.form_default.resources
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Properties.Resources.resources
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.GenerateResource.cache
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto Integracion Continua.exe
+C:\Users\Josue\source\repos\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto Integracion Continua.pdb
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_ConversorLongitud.resources
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_ConversorPeso.resources
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_DefaultUI.resources
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_ConversorTiempo.resources
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_ConversorVelocidad.resources
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Properties.Resources.resources
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.GenerateResource.cache
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.CoreCompileInputs.cache
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.exe.config
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.exe
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.pdb
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.AssemblyReference.cache
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto Integracion Continua.exe
+D:\JUF\Documents\Personal\Maestría DevOps & Cloud Computing\Integracion Continua (I)\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto Integracion Continua.pdb
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.exe.config
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.exe
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\bin\Debug\Proyecto Integracion Continua.pdb
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.AssemblyReference.cache
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_ConversorLongitud.resources
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_ConversorPeso.resources
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Form_DefaultUI.resources
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.ConversorTiempo.resources
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.ConversorVelocidad.resources
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto_Integracion_Continua.Properties.Resources.resources
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.GenerateResource.cache
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\ProyectoIntegracionContinua.csproj.CoreCompileInputs.cache
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto Integracion Continua.exe
+D:\Master\Clases\9.-Despliegue continuo lanzamiento y configuracion del producto\ejercicio\DespliegueContinuo\ProyectoIntegracionContinua\Proyecto Integracion Continua\obj\Debug\Proyecto Integracion Continua.pdb
